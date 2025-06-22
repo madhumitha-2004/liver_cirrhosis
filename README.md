@@ -44,6 +44,7 @@ This project aims to build a predictive model to help **detect liver cirrhosis e
 ## 🔍 Project Phases
 
 📁 liver-cirrhosis-prediction
+
 ├── 1. Bainstorming&Ideation
 ├── 2. Requirement Analysis
 ├── 3. Project Design
@@ -78,15 +79,6 @@ python app.py
 4.Visit:
 
 http://127.0.0.1:5000/
-
-### 🔹 Input Page:
-Screenshot 2025-06-22 162721.png
-Screenshot 2025-06-22 171228.png
-Screenshot 2025-06-22 171243.png
-
-### 🔹 Prediction Result Page:
-Screenshot 2025-06-22 163020.png
-
 
 🙋‍♀️ Author:
  Y N Madhumitha Chowdary
