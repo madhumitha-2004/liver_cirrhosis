@@ -65,7 +65,7 @@ Each phase includes markdown documents, notebooks, visuals, and implementation d
 ▶️ Steps
 1.Clone the repository:
 
-git clone https://github.com/madhumitha-2004/liver-cirrhosis-prediction.git
+https://github.com/madhumitha-2004/liver_cirrhosis.git
 
 2.Navigate to project folder:
 
@@ -80,16 +80,16 @@ python app.py
 http://127.0.0.1:5000/
 
 ### 🔹 Input Page:
-liver_cirrhosis_prediction/screenshots/Screenshot 2025-06-22 162721.png
-liver_cirrhosis_prediction/screenshots/Screenshot 2025-06-22 171228.png
-liver_cirrhosis_prediction/screenshots/Screenshot 2025-06-22 171243.png
+Screenshot 2025-06-22 162721.png
+Screenshot 2025-06-22 171228.png
+Screenshot 2025-06-22 171243.png
 
 ### 🔹 Prediction Result Page:
-liver_cirrhosis_prediction/screenshots/Screenshot 2025-06-22 163020.png
+Screenshot 2025-06-22 163020.png
 
 
 🙋‍♀️ Author:
-Madhumitha Chowdary
+ Y N Madhumitha Chowdary
 
 📚 License:
 This project is for academic and demonstration purposes only. Not intended for actual clinical use without validation.
