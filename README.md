@@ -41,27 +41,6 @@ This project aims to build a predictive model to help **detect liver cirrhosis e
 
 ---
 
-## 🔍 Project Phases
-
-📁 liver-cirrhosis-prediction
-
-├── 1. Bainstorming&Ideation
-
-├── 2. Requirement Analysis
-
-├── 3. Project Design
-
-├── 4. Project Planning(Agile Methodologies)
-
-├── 5. Project Development
-
-├── 6. Functional& Performance Testing
-
-
-Each phase includes markdown documents, notebooks, visuals, and implementation details for clear academic or industrial understanding.
-
----
-
 ## 🚀 How to Run the Project
 
 ### 🧱 Prerequisites
