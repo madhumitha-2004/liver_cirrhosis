@@ -56,7 +56,6 @@ https://github.com/madhumitha-2004/liver_cirrhosis.git
 2.Navigate to project folder:
 
 cd liver_cirrhosis
-cd project_executable_files
 
 3.Run the Flask app:
 
