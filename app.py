@@ -53,10 +53,10 @@ def index1():
         prediction = model.predict(data)
         prediction = int(prediction[0])
         if prediction==0:
-            return render_template("index.html",prediction="Non-Diabetes")
+            return render_template("index.html",prediction="No Liver Cirrhosis")
         
         else:
-            return render_template("index.html",prediction="Diabetes")
+            return render_template("index.html",prediction="Liver Cirrhosis")
     return render_template('index.html')
     
     
